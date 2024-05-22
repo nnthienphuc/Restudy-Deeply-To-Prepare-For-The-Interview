@@ -1,4 +1,0 @@
-Hello, This is a first line!
-This is a second line!
-Append some text!
-This is 4th line!
