@@ -2,6 +2,90 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "JavaDatatypes",
+      "request": "launch",
+      "mainClass": "HackerRank.JavaDatatypes",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "JavaLoopsII",
+      "request": "launch",
+      "mainClass": "HackerRank.JavaLoopsII",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "JavaLoopsI",
+      "request": "launch",
+      "mainClass": "HackerRank.JavaLoopsI",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "JavaOutputFormatting",
+      "request": "launch",
+      "mainClass": "HackerRank.JavaOutputFormatting",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "WelcomeToJava",
+      "request": "launch",
+      "mainClass": "GeeksForGeeks.WelcomeToJava",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "JavaInstanceofKeyword",
+      "request": "launch",
+      "mainClass": "GeeksForGeeks.JavaInstanceofKeyword",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "JavaMethodOverriding2",
+      "request": "launch",
+      "mainClass": "GeeksForGeeks.JavaMethodOverriding2",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "JavaMethodOverriding",
+      "request": "launch",
+      "mainClass": "GeeksForGeeks.JavaMethodOverriding",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "JavaInterface",
+      "request": "launch",
+      "mainClass": "GeeksForGeeks.JavaInterface",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "JavaInheritanceII",
+      "request": "launch",
+      "mainClass": "GeeksForGeeks.JavaInheritanceII",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "JavaInheritanceI",
+      "request": "launch",
+      "mainClass": "GeeksForGeeks.JavaInheritanceI",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "FirstLook",
+      "request": "launch",
+      "mainClass": "Java.FirstLook",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
