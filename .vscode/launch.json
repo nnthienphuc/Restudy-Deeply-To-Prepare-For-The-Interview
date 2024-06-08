@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "JavaCurrencyFormatter",
+      "request": "launch",
+      "mainClass": "HackerRank.JavaCurrencyFormatter",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "JavaDateAndTime",
+      "request": "launch",
+      "mainClass": "HackerRank.JavaDateAndTime",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "JavaStaticInitializerBlock",
+      "request": "launch",
+      "mainClass": "HackerRank.JavaStaticInitializerBlock",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
       "name": "JavaDatatypes",
       "request": "launch",
       "mainClass": "HackerRank.JavaDatatypes",
