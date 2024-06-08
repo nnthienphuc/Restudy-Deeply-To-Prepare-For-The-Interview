@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Lap4.Main",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
       "name": "JavaCurrencyFormatter",
       "request": "launch",
       "mainClass": "HackerRank.JavaCurrencyFormatter",
