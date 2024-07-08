@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FormattingExample",
+      "request": "launch",
+      "mainClass": "Java.Formatting.FormattingExample",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
       "name": "SimpleDateFormatClass",
       "request": "launch",
       "mainClass": "Java.Formatting.SimpleDateFormatClass",
