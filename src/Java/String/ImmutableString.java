@@ -1,6 +1,4 @@
-package Java;
-
-import java.io.*;
+package Java.String;
 
 class ImmutableString{
     public static void main(String[] args)

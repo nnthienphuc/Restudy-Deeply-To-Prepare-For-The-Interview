@@ -3,6 +3,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SimpleDateFormatClass",
+      "request": "launch",
+      "mainClass": "Java.Formatting.SimpleDateFormatClass",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "DecimalFormatClass",
+      "request": "launch",
+      "mainClass": "Java.Formatting.DecimalFormatClass",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "DateAndTimeFormatting",
+      "request": "launch",
+      "mainClass": "Java.Formatting.DateAndTimeFormatting",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "StringFormatting",
+      "request": "launch",
+      "mainClass": "Java.Formatting.StringFormatting",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "CharacterFormatting",
+      "request": "launch",
+      "mainClass": "Java.Formatting.CharacterFormatting",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "BooleanFormatting",
+      "request": "launch",
+      "mainClass": "Java.Formatting.BooleanFormatting",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "NumberFormatting",
+      "request": "launch",
+      "mainClass": "Java.NumberFormatting",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "DecimalFormatting",
+      "request": "launch",
+      "mainClass": "Java.DecimalFormatting",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
+      "name": "DataType",
+      "request": "launch",
+      "mainClass": "Java.DataType",
+      "projectName": "Restudy-Deeply-To-Prepare-For-The-Interview_2a479d93"
+    },
+    {
+      "type": "java",
       "name": "ImmutableString",
       "request": "launch",
       "mainClass": "Java.ImmutableString",
