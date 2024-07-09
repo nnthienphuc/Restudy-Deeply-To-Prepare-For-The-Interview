@@ -1,7 +1,5 @@
 package Java.Formatting;
 
-import java.io.*;
-
 public class DecimalFormatting {
     public static void main(String[] args) 
     { 

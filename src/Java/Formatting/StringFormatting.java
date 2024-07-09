@@ -1,5 +1,4 @@
 package Java.Formatting;
-import java.util.*;
 
 public class StringFormatting {
     public static void main(String[] args) {
