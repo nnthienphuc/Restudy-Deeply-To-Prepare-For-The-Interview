@@ -37,5 +37,6 @@ public class FormattingExample {
 
         // In dấu phần trăm
         System.out.printf("Dấu phần trăm: %%\n"); // Dấu phần trăm: %
+        System.out.printf("%d%%", i);
     }
 }
